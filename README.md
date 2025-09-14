@@ -1,2 +1,2 @@
-# projekhub-barbershop-system
-projekhub-barbershop-system
+# projekhub-example
+Created with CodeSandbox

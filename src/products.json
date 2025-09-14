@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 99.99,
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "price": 199.99,
+    "description": "Advanced fitness tracking with heart rate monitor, GPS, and water resistance.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Premium Coffee Maker",
+    "price": 149.99,
+    "description": "Professional-grade coffee maker with programmable settings and thermal carafe.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop",
+    "category": "Home & Kitchen"
+  }
+]
